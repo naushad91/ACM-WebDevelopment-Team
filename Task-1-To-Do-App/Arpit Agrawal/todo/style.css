@@ -1,0 +1,81 @@
+.heading{
+	width: 40%;
+	margin: 50px auto;
+	text-align:center;
+	color: "#fff8dc";
+	background: transparent;
+	font-size: 32px;
+	border-radius:20px;
+}
+
+form{
+	width: 35%;
+	margin: 30px auto;
+	text-align: center;
+	padding: 10px;
+	background:transparent;
+	border-radius:20px;
+}
+.task_input{
+	width: 73%;
+	height: 15px;
+	padding: 10px;
+	border:2px solid black;
+	background: transparent;	
+	border-radius: 20px;
+}
+
+.list_input{
+	width: 73%;
+	height: 15px;
+	padding: 10px;
+	border:2px solid black;
+	background: transparent;	
+	border-radius: 20px;
+}
+
+.task_button{
+	cursor: pointer;
+  	outline: inherit;
+	height: 39px;
+	background: transparent;
+	padding: 5px 20px;
+	border:none;
+	text-align:center;
+	 font-size: 24px;
+	border-radius:5px;
+	color: black;
+	box-shadow: 0 5px #999;
+	border-radius: 20px;
+}
+
+.task_button:hover {background-color: lightgreen}
+
+.task_button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.bg{
+	background-image: url("bg4.jpg");
+	background-clip: padding-box;
+	background-position: center;
+	margin-right:110px;  
+	background-size: 50%;
+	background-repeat: no-repeat;
+	background-size: 1650px 1260px;
+	background-attachment: fixed;
+}
+
+.task{
+	font-size: 26px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.store{
+	font-size: 25px;
+	text-align: center;
+	
+}
