@@ -1,0 +1,70 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma;
+    margin: 15px 30px;
+    font-size: 15px;
+    padding: 8px;
+}
+
+.container{
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid #d3d3d3;
+    border-radius: 4px;
+}
+
+.main_heading{
+    text-align: center;
+}
+.heading{
+
+}
+
+.btn
+
+{
+
+    background-color: #4dae6d;
+    color: #ffffff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+
+}
+
+.btn:hover{
+    background-color: #5870a0;
+}
+input[type="Name of the task"],
+select,
+textarea {
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px;
+
+
+}
+
+.bton
+
+{
+    background-color: #4dae6d;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+
+}
+
+.bton:hover{
+    background-color: #b35959;
+}
